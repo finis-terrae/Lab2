@@ -18,6 +18,5 @@ Desafio:
  Entregable:
   - Publicar su codigo en github
   - Crear un video de no mas de 5 minutos explicando su solucion.
-  - 
   
 
